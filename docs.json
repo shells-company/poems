@@ -26,7 +26,17 @@
   },
   "navigation": {
     "pages": [
-      "index"
+      "index",
+      {
+        "group": "Poems",
+        "icon": "feather",
+        "pages": [
+          "poems/unproductive",
+          "poems/smiling-in-the-rain",
+          "poems/new-year-state-of-mind",
+          "poems/the-phantom-world"
+        ]
+      }
     ]
   },
   "logo": {
