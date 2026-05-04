@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "luma",
   "name": "poems",
   "description": "A short description of your site.",
   "colors": {
@@ -26,7 +26,21 @@
   },
   "navigation": {
     "pages": [
-      "index"
+      "index",
+      {
+        "group": "Poems",
+        "icon": "feather",
+        "pages": [
+          "poems/unproductive",
+          "poems/smiling-in-the-rain",
+          "poems/new-year-state-of-mind",
+          "poems/the-phantom-world",
+          "poems/fragments",
+          "poems/fragments-two",
+          "poems/mirror",
+          "poems/test-mirror"
+        ]
+      }
     ]
   },
   "logo": {
