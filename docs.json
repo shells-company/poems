@@ -39,7 +39,8 @@
             "group": "Fragments",
             "pages": [
               "poems/fragments",
-              "poems/fragments-two"
+              "poems/fragments-two",
+              "poems/some-page"
             ]
           },
           "poems/mirror",
