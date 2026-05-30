@@ -46,7 +46,13 @@
           "poems/mirror",
           "poems/test-mirror",
           "poems/ai-reflection",
-          "poems/stillness"
+          "poems/stillness",
+          {
+            "group": "group w/ 1 pgage",
+            "pages": [
+              "1-page"
+            ]
+          }
         ]
       },
       "abother-poem"
