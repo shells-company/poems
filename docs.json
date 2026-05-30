@@ -31,6 +31,7 @@
         "group": "Poems",
         "icon": "feather",
         "pages": [
+          "poems/some-page",
           "poems/unproductive",
           "poems/smiling-in-the-rain",
           "poems/new-year-state-of-mind",
