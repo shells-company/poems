@@ -52,7 +52,9 @@
             "pages": [
               "1-page"
             ]
-          }
+          },
+          "poems/whats-up",
+          "poems/new-file"
         ]
       },
       "abother-poem"
