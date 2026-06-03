@@ -36,23 +36,11 @@
           "poems/smiling-in-the-rain",
           "poems/new-year-state-of-mind",
           "poems/the-phantom-world",
-          {
-            "group": "Fragments",
-            "pages": [
-              "poems/fragments",
-              "poems/fragments-two"
-            ]
-          },
+          "poems/fragments",
           "poems/mirror",
           "poems/test-mirror",
           "poems/ai-reflection",
-          "poems/stillness",
-          {
-            "group": "group w/ 1 pgage",
-            "pages": [
-              "1-page"
-            ]
-          }
+          "poems/stillness"
         ]
       },
       "abother-poem"
