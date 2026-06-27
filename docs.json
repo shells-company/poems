@@ -25,27 +25,38 @@
     ]
   },
   "navigation": {
-    "pages": [
-      "index",
+    "tabs": [
       {
-        "group": "Poems",
-        "icon": "feather",
+        "tab": "Home",
         "pages": [
-          "poems/some-page",
-          "poems/new-year-state-of-mind",
-          "poems/fragments",
-          "poems/mirror",
-          "poems/test-mirror",
-          "poems/ai-reflection",
-          "poems/stillness",
-          "poems/the-phantom-world",
-          "poems/unproductive",
-          "poems/smiling-in-the-rain",
-          "poems/to-be",
-          "poems/chat"
+          "index",
+          {
+            "group": "Poems",
+            "icon": "feather",
+            "pages": [
+              "poems/some-page",
+              "poems/new-year-state-of-mind",
+              "poems/fragments",
+              "poems/mirror",
+              "poems/test-mirror",
+              "poems/ai-reflection",
+              "poems/stillness",
+              "poems/the-phantom-world",
+              "poems/unproductive",
+              "poems/smiling-in-the-rain",
+              "poems/to-be",
+              "poems/chat"
+            ]
+          },
+          "abother-poem"
         ]
       },
-      "abother-poem"
+      {
+        "tab": "Tests",
+        "pages": [
+          "homepage-sync"
+        ]
+      }
     ]
   },
   "logo": {
