@@ -42,18 +42,23 @@
         "tab": "Poems",
         "pages": [
           "poems/new-year-state-of-mind",
+          "poems/smiling-in-the-rain",
           "poems/fragments",
-          "poems/mirror",
-          "poems/test-mirror",
-          "poems/ai-reflection",
           "poems/stillness",
           "poems/the-phantom-world",
-          "poems/smiling-in-the-rain",
           "poems/to-be",
           {
             "group": "Untitled Group",
             "pages": [
               "poems/chat"
+            ]
+          },
+          {
+            "group": "Transparency",
+            "pages": [
+              "poems/test-mirror",
+              "poems/mirror",
+              "poems/ai-reflection"
             ]
           }
         ]
