@@ -25,11 +25,21 @@
     ]
   },
   "navigation": {
-    "pages": [
-      "index",
+    "tabs": [
       {
-        "group": "Poems",
-        "icon": "feather",
+        "tab": "Home",
+        "pages": [
+          "index"
+        ]
+      },
+      {
+        "tab": "Essays",
+        "pages": [
+          "a-bit"
+        ]
+      },
+      {
+        "tab": "Poems",
         "pages": [
           "poems/new-year-state-of-mind",
           "poems/fragments",
