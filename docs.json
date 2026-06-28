@@ -50,7 +50,12 @@
           "poems/the-phantom-world",
           "poems/smiling-in-the-rain",
           "poems/to-be",
-          "poems/chat"
+          {
+            "group": "Untitled Group",
+            "pages": [
+              "poems/chat"
+            ]
+          }
         ]
       }
     ]
