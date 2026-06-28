@@ -19,9 +19,7 @@
     "options": [
       "copy",
       "view",
-      "assistant",
-      "mcp",
-      "add-mcp"
+      "assistant"
     ]
   },
   "navigation": {
@@ -46,7 +44,7 @@
           "poems/fragments",
           "poems/stillness",
           "poems/to-be",
-          "poems/split",
+          "split",
           "poems/the-phantom-world-ideating",
           {
             "group": "Untitled Group",
