@@ -31,7 +31,6 @@
         "group": "Poems",
         "icon": "feather",
         "pages": [
-          "abother-poem",
           "poems/new-year-state-of-mind",
           "poems/fragments",
           "poems/mirror",
