@@ -4,8 +4,8 @@
   "name": "poems",
   "description": "A short description of your site.",
   "colors": {
-    "primary": "#0F172A",
-    "light": "#3B82F6",
+    "primary": "#d0381b",
+    "light": "#facc15",
     "dark": "#0F172A"
   },
   "favicon": "/favicon.ico",
@@ -78,6 +78,7 @@
       "type": "button",
       "label": "Dashboard",
       "href": "https://dashboard.mintlify.com"
-    }
+    },
+    "links": []
   }
 }
