@@ -42,7 +42,6 @@
           "poems/new-year-state-of-mind",
           "poems/smiling-in-the-rain",
           "poems/fragments",
-          "poems/split",
           "poems/stillness",
           "poems/the-phantom-world-ideating",
           {
@@ -57,6 +56,13 @@
               "poems/test-mirror",
               "poems/mirror",
               "poems/ai-reflection"
+            ]
+          },
+          {
+            "group": "Split",
+            "pages": [
+              "poems/split",
+              "poems/drafts"
             ]
           }
         ]
