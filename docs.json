@@ -4,7 +4,7 @@
   "name": "poems",
   "description": "A short description of your site.",
   "colors": {
-    "primary": "#d0381b",
+    "primary": "#facc15",
     "light": "#facc15",
     "dark": "#0F172A"
   },
@@ -64,7 +64,8 @@
               "poems/split",
               "poems/drafts"
             ]
-          }
+          },
+          "poems/for-impact"
         ]
       }
     ]
