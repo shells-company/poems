@@ -33,8 +33,7 @@
       {
         "tab": "Essays",
         "pages": [
-          "a-bit",
-          "new-files"
+          "a-bit"
         ]
       },
       {
@@ -66,7 +65,8 @@
               "poems/drafts"
             ]
           },
-          "poems/for-impact"
+          "poems/for-impact",
+          "poems/my new file"
         ]
       }
     ]
