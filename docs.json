@@ -28,6 +28,7 @@
         "tab": "Home",
         "pages": [
           "index",
+          "my-page",
           "my-page"
         ]
       },
