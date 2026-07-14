@@ -27,7 +27,8 @@
       {
         "tab": "Home",
         "pages": [
-          "index"
+          "index",
+          "my-page"
         ]
       },
       {
