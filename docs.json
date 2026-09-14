@@ -34,7 +34,8 @@
         "tab": "Essays",
         "pages": [
           "a-bit"
-        ]
+        ],
+        "hidden": true
       },
       {
         "tab": "Poems",
