@@ -63,8 +63,8 @@
           {
             "group": "Split",
             "pages": [
-              "poems/split",
-              "poems/drafts"
+              "poems/drafts",
+              "poems/split"
             ]
           },
           "poems/for-impact",
