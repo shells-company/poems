@@ -34,7 +34,8 @@
         "tab": "Essays",
         "pages": [
           "a-bit"
-        ]
+        ],
+        "hidden": true
       },
       {
         "tab": "Poems",
@@ -45,7 +46,7 @@
           "poems/stillness",
           "poems/the-phantom-world-ideating",
           {
-            "group": "Untitled Group",
+            "group": "Enter Prompt Below",
             "pages": [
               "poems/chat",
               "poems/exhausted"
@@ -62,12 +63,11 @@
           {
             "group": "Split",
             "pages": [
-              "poems/split",
-              "poems/drafts"
+              "poems/drafts",
+              "poems/split"
             ]
           },
           "poems/for-impact",
-          "poems/my new file",
           "poems/disappear",
           "poems/untitled-page"
         ]
